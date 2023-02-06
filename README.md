@@ -4,11 +4,11 @@
   <h1 align="center">Developer's Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
+    This is my professional portfolio hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
     <a href="https://amariswain.github.io/</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://hashirshoaeb.github.io">https://hashirshoaeb.github.io</a>
   </p>
 </p>
 
