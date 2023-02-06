@@ -5,7 +5,7 @@
 
   <p align="center">
     This is my professional portfolio hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://amariswain.github.io/</a>
+    <a href="https://amariswain.github.io/"</a>
     <br />
     <br />
     <a href="https://amariswain.github.io">https://amariswain.github.io</a>
