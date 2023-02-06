@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Amari",
   middleName: "",
   lastName: "Swain",
-  message: " Passionate about changing the world of healthcare with technology. ",
+  message: "| Student | Clinical Informatics Analyst | Business Analyst | Content Creator | Cancer Survivor |",
   icons: [
     {
       image: "fa-github",
@@ -55,7 +55,7 @@ const about = {
   imageSize: 425,
   message:
     "My name is Amari Swain. As a graduate student at Purdue University, I am pursuing my Master's degree in Health Informatics. My previous academic experience includes a Bachelor's degree in Criminal Justice with a minor in Software Development from the University of North Carolina at Charlotte. My passion lies in giving back to the community and advancing healthcare through technology. My portfolio showcases several projects from my academic courses, available on my GitHub page.",
-  resume: "https://docs.google.com/document/d/1BAUztBIpovDfgrqHnDvLh3mHbxvXmK-J/edit?usp=sharing&ouid=108115948628772104346&rtpof=true&sd=true",
+  resume: "../editable-stuff/resume.pdf",
 };
 
 // PROJECTS SECTION
