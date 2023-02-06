@@ -52,7 +52,7 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/Linkedin pfp2.png"),
-  imageSize: 375,
+  imageSize: 425,
   message:
     "My name is Amari Swain. As a graduate student at Purdue University, I am pursuing my Master's degree in Health Informatics. My previous academic experience includes a Bachelor's degree in Criminal Justice with a minor in Software Development from the University of North Carolina at Charlotte. My passion lies in giving back to the community and advancing healthcare through technology. My portfolio showcases several projects from my academic courses, available on my GitHub page.",
   resume: "https://docs.google.com/document/d/1BAUztBIpovDfgrqHnDvLh3mHbxvXmK-J/edit?usp=sharing&ouid=108115948628772104346&rtpof=true&sd=true",
@@ -67,8 +67,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "AmariSwain", //i.e."johnDoe12Gh"
-  reposLength: 2,
-  specificRepos: ["HealthcareForm-database-1","COVID-19-Database-2"],
+  reposLength: 0,
+  specificRepos: ["HealthcareForm-database","COVID-19-Database"],
 };
 
 // Leadership SECTION
