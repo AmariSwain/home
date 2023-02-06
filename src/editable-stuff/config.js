@@ -52,10 +52,11 @@ const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/Linkedin pfp2.png"),
-  imageSize: 425,
+  imageSize: 500,
   message:
-    "My name is Amari Swain. As a graduate student at Purdue University, I am pursuing my Master's degree in Health Informatics. My previous academic experience includes a Bachelor's degree in Criminal Justice with a minor in Software Development from the University of North Carolina at Charlotte. My passion lies in giving back to the community and advancing healthcare through technology. My portfolio showcases several projects from my academic courses, available on my GitHub page.",
-  resume: "../editable-stuff/resume.pdf",
+    "My name is Amari Swain. I am a graduate student at Purdue University pursuing a Master's degree in Health Informatics with a background in Criminal Justice and a minor in Software Development from the University of North Carolina at Charlotte. My passion for using technology to improve healthcare stems from my personal experiences as a Cancer patient and my desire to give back to the community. With a strong commitment to continuous learning and growth, my portfolio on GitHub showcases various projects demonstrating my dedication to using technology to drive positive change in healthcare. I believe my experiences and skills make me well-equipped to make a positive impact in the industry, and I remain steadfast in my goal to utilize technology to enhance healthcare for all individuals and communities.", 
+  
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
@@ -133,7 +134,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time hybrid Health Infomatics or Business Analyst opportunities! If you know of any positions available or if you have any questions, please feel free to email me at",
+    "I'm currently looking for full-time hybrid telecommuter Health Infomatics or Business Analyst opportunities! If you know of any positions available or if you have any questions, please feel free to email me at",
   email: "aswainno@gmail.com",
 };
 
