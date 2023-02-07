@@ -56,7 +56,7 @@ const about = {
   message:
     "My name is Amari Swain. I am a graduate student at Purdue University pursuing a Master's degree in Health Informatics with a background in Criminal Justice and a minor in Software Development from the University of North Carolina at Charlotte. My passion for using technology to improve healthcare stems from my personal experiences as a Cancer patient and my desire to give back to the community. With a strong commitment to continuous learning and growth, my portfolio on GitHub showcases various projects demonstrating my dedication to using technology to drive positive change in healthcare. I believe my experiences and skills make me well-equipped to make a positive impact in the industry, and I remain steadfast in my goal to utilize technology to enhance healthcare for all individuals and communities.", 
   
-  resume: require("../editable-stuff/resume.pdf"),
+  resume: require("../editable-stuff/Amari Swain Resume.pdf"),
 };
 
 // PROJECTS SECTION
