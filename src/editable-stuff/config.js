@@ -20,8 +20,8 @@ const mainBody = {
       //url: "https://www.facebook.com/hashirshoaeb",
     //},
     //{
-      //image: "fa-instagram",
-      //url: "https://www.instagram.com/hashirshoaeb/",
+      //image: "fa-github",
+      //url: "https://public.tableau.com/app/profile/amari.swain",
     //},
     {
       image: "fa-linkedin",
@@ -69,7 +69,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "AmariSwain", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["HealthcareForm-database","COVID-19-Database"],
+  specificRepos: ["HealthcareForm-database","COVID-19-Database", "CovidPortfolioProjects",  "NashvilleHousingPortfolioProject"],
 };
 
 // Leadership SECTION
@@ -101,7 +101,8 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "SQL", value: 50 },
+    { name: "SQL", value: 70 },
+    { name: "Tableau", value: 55 },
     { name: "Data Structures", value: 50 },
     { name: "R Studio", value: 40 },
     { name: "Microsoft Suites", value: 90 },
